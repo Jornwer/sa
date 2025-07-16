@@ -50,9 +50,19 @@ heroes = {
 
 player_map = {
     'Jornwer': 'marisha',
+    'piv0zavr': 'marisha',
+    'nemarisha': 'marisha',
+    'cumeHb_': 'marisha',
+    'aRolf_': 'marisha',
+    'VaIeraVarulll': 'marisha',
 
     'GOGOJoeriJonaEC': 'Alllayar',
     'piskadron_kun': 'Alllayar',
+    'Jotaro_Kujo_': 'Alllayar',
+    'zenorxxx': 'Alllayar',
+    'JornoJovanna': 'Alllayar',
+    'Funny_Valentine': 'Alllayar',
+    'Happy(G)od(D)ay': 'Alllayar',
 
     'Johor': 'Gohor',
     'Gowhore': 'Gohor',
@@ -62,21 +72,39 @@ player_map = {
     'Astarot1': 'fredber227',
     'ValeraVarulIl': 'fredber227',
     'mamatkunem': 'fredber227',
+    'Astarot444': 'fredber227',
 
     'modeKorolek': 'Taxelor',
     'Krakolek': 'Taxelor',
     'KurokawaAkane': 'Taxelor',
 
-    'govno4': 'KoroRain',
-    'modeTaxelorejke': 'KoroRain',
-    'DragonsHuyagons': 'KoroRain',
-    'EtoZheKoro': 'KoroRain',
-    'Taxevor': 'KoroRain',
+    'govno4': 'Korolek',
+    'modeTaxelorejke': 'Korolek',
+    'DragonsHuyagons': 'Korolek',
+    'EtoZheKoro': 'Korolek',
+    'Taxevor': 'Korolek',
+    'KoroGOD': 'Korolek',
+    'shpuntik01': 'Korolek',
+    'ShuhuaNo1': 'Korolek',
+    'KoroIchtys': 'Korolek',
+    'STARIY.BOG': 'Korolek',
+    'THEkoro...': 'Korolek',
+    'KoroYolo': 'Korolek',
+    'OrgiPoshliNahuy': 'Korolek',
+    'KoroRain': 'Korolek',
 
     'AncientWORLD.': 'AncientWORLD',
 
+    'BibidzakiSan': 'murat007',
+
+    'DEAD190': 'Soso228',
+    'DEDYS': 'Soso228',
+
     'DragonsLayer': 'DragonsLover',
     'Закрыто': 'DragonsLover',
+    'TheGreenKnight': 'DragonsLover',
+    'закpытo': 'DragonsLover',
+    'Закpытo': 'DragonsLover',
 
     'Taza4to': 'The_NEXT_LVL',
 
@@ -86,24 +114,56 @@ player_map = {
 
     'K1mal4ik': 'K1mall',
 
-    'Oткpыто': 'GressKo',
+    'Oткрытo': 'GressKo',
     'PussyEater2': 'GressKo',
+    'PussyDestroyer2': 'GressKo',
+    'PussyEaterZaklinatelG0vna': 'GressKo',
+    'говно': 'GressKo',
+    'Oткpыто': 'GressKo',
+    '_G_a_y_': 'GressKo',
+    'SkillshotArena': 'GressKo',
+    'HotPussy18+': 'GressKo',
+    'LonelyHotMom+': 'GressKo',
 
     'SAHYAKAMEHb': '333as555',
 
     'SonyaMarmelad': 'ValeraVarulll',
+    'ValeraVarulli': 'ValeraVarulll',
 
     'alex322': 'alexayka',
 
     'fyefhfr': 'Koktel',
 
+    'ZlodeyPenis': 'prishepkamod',
+    'klounsquad': 'prishepkamod',
+    'penis1488': 'prishepkamod',
+
+    'paren': 'Dikosya',
+    'Freamen': 'Dikosya',
+    'govnoed2': 'Dikosya',
+    'Paren': 'Dikosya',
+    'bosos': 'Dikosya',
+    'StepnoiMongol15': 'Dikosya',
+
     'D_J107': 'SA_Killer69',
+    'D_Ji07': 'SA_Killer69',
+
+    'STARIY--BOG': '____LLL',
+
+    'BardAlekstraza': 'falomer',
 
     'PruPru(7)': 'ImperatorPruPru',
     'PruPru(6)': 'ImperatorPruPru',
+    'SuperGluk': 'ImperatorPruPru',
+    'JackFastAss': 'ImperatorPruPru',
+    'A_Dot': 'ImperatorPruPru',
+    'dragonslover': 'ImperatorPruPru',
+    'SsuSru(6)': 'ImperatorPruPru',
 
     'Quiet Rain': '_G_',
-    'Barrad': '_G_'
+    'Barrad': '_G_',
+    'BrokeStar': '_G_',
+    'GASTER2000': '_G_'
 }
 
 database_proxy = peewee.Proxy()
