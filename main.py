@@ -45,7 +45,7 @@ heroes = {
     '36': 'Cultist',
     '37': 'Wizard',
     '38': 'Grant',
-    '39': 'Phanto',
+    '39': 'Phantom',
 }
 
 player_map = {
