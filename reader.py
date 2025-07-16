@@ -168,7 +168,7 @@ def read_files(path: str, from_date: int):
                         player.winner = True if player.team == game.winner else False
                     if line.startswith('name='):
                         player.name = player_map.get(line[5:]) or line[5:]
-                        if player.name == 'JackFastGame' and parser.parse(date) > parser.parse('04.01.2025'):
+                        if player.name == 'JackFastGame' and parser.parse(date) > parser.parse('03.01.2025'):
                             player.name = 'GressKo'
                     if line.startswith('heroId='):
                         player.hero = heroes.get(line[7:])
